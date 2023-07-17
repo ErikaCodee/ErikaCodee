@@ -6,7 +6,7 @@
 - 🎯 Meta: Desenvolvedor Fullstack
 - 💻 Tecnologia / 🎮 Game
 
-![ErikaCodee GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikaCodee&show_icons=true&theme=Dracula)
+![ErikaCodee GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikaCodee&show_icons=true&theme=dark)
 
 ## Atualmente estou aprendendo
 
