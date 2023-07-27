@@ -10,7 +10,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ErikaCodee&color=blue" alt="Profile views"/></p>
 
-Eu sou Erika, bacharel em Direito, com pós-graduação em direito do trabalho e processo do trabalho 🎓. Estou em transição de carreira, querendo me tornar Dev Fullstack. Amo tecnologia e sou gamer nas horas vagas.
+Eu sou da área jurídicaa e estou em transição de carreira, querendo me tornar Dev Fullstack. Amo tecnologia e sou gamer nas horas vagas.
 
 ***
 ## 💻&nbsp;Tecnologia
