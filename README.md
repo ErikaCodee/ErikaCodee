@@ -10,7 +10,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ErikaCodee&color=blue" alt="Profile views"/></p>
 
-Tenho formação na área júridica e estou em transição de carreira, querendo me tornar Dev Fullstack. Amo tecnologia e sou gamer nas horas vagas.
+Tenho formação na área jurídica e estou em transição de carreira, querendo me tornar Dev Fullstack. Amo tecnologia e sou gamer nas horas vagas.
 
 ***
 ## 💻&nbsp;Tecnologia
