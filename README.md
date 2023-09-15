@@ -5,18 +5,47 @@
 </div>
 
 <h3 align="center">
-  • Estudante FullStack • 
+  • Estudante Full-stack • 
 </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ErikaCodee&color=blue" alt="Profile views"/></p>
 
-Tenho formação na área jurídica e estou em transição de carreira, querendo me tornar Dev Fullstack. Amo tecnologia e sou gamer nas horas vagas.
+### ErikaCodee 
+Formação na área jurídica e atualmente em transição de carreira para cursar engenharia de software. <br>
+Entusiasta de tecnologia. <br>
+Gamer nas horas vagas.
 
 ***
-## 💻&nbsp;Tecnologia
-<p>Tecnologias que estou estudando no momento</p>
 
+### Meta
+Desenvolver habilidades e me tornar Desenvolvedor Full-stack
+
+***
+
+### Conect-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E7ECEB?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/SEUUSERNAME/)
+
+***
+
+### Habilidades
 ![HTML](https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=C86833)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-E7ECEB?style=for-the-badge&logo=CSS3&logoColor=139DFF)&nbsp;
+![PYTHON](https://img.shields.io/badge/Python-E7ECEB?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![WINDOWS](https://img.shields.io/badge/Windows-E7ECEB?style=for-the-badge&logo=windows&logoColor=blue)&nbsp;
+
+#### Tecnologias que estou estudando no momento 
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-E7ECEB?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![UBUNTU](https://img.shields.io/badge/Ubuntu-E7ECEB?style=for-the-badge&logo=ubuntu&logoColor=orange)&nbsp;
+
+***
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikaCodee&theme=transparent&bg_color=000&border_color=9d4edd&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+***
+
+### Minhas Contribuições
+
+
 
 
