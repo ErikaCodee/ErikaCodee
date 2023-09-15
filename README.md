@@ -33,7 +33,7 @@ Desenvolver habilidades e me tornar Desenvolvedor Full-stack
 ![PYTHON](https://img.shields.io/badge/Python-E7ECEB?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![WINDOWS](https://img.shields.io/badge/Windows-E7ECEB?style=for-the-badge&logo=windows&logoColor=blue)&nbsp;
 
-#### Tecnologias que estou estudando no momento 
+### Tecnologias que estou estudando no momento 
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-E7ECEB?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E7ECEB?style=for-the-badge&logo=ubuntu&logoColor=orange)&nbsp;
 
