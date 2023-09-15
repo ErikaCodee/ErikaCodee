@@ -35,7 +35,11 @@ Desenvolver habilidades e me tornar Desenvolvedor Full-stack
 
 ### Tecnologias que estou estudando no momento 
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-E7ECEB?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![GIT](https://img.shields.io/badge/GIT-E7ECEB?style=for-the-badge&logo=git&logoColor=orange)&nbsp;
+![GITHUB](https://img.shields.io/badge/GitHub-E7ECEB?style=for-the-badge&logo=github&logoColor=black)&nbsp;
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E7ECEB?style=for-the-badge&logo=ubuntu&logoColor=orange)&nbsp;
+
+
 
 ***
 
