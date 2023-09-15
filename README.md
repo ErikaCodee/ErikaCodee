@@ -28,7 +28,7 @@ Desenvolver habilidades e me tornar Desenvolvedor Full-stack
 ***
 
 ### Habilidades
-![HTML](https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=C86833)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=orange)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-E7ECEB?style=for-the-badge&logo=CSS3&logoColor=139DFF)&nbsp;
 ![PYTHON](https://img.shields.io/badge/Python-E7ECEB?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![WINDOWS](https://img.shields.io/badge/Windows-E7ECEB?style=for-the-badge&logo=windows&logoColor=blue)&nbsp;
