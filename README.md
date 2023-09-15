@@ -22,7 +22,7 @@ Desenvolver habilidades e me tornar Desenvolvedor Full-stack
 
 ***
 
-### Conect-se comigo
+### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E7ECEB?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/SEUUSERNAME/)
 
 ***
