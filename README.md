@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hello World 👋 Bem-vindo(a) ao meu Github!
 
-<!--
-**ErikaCodee/ErikaCodee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mim
 
-Here are some ideas to get you started:
+- 💻 Estudante e Desenvolvedora Jr. [Front-End | Back-End | Fullstack]
+- 🤓 Embaixadora da Dio Campus Expert
+- 🎓 Cursando Bacharelado em Engenharia de Software no Gran Centro Universitário
+- 🤖 Explorando novas tecnologias e desenvolvendo soluções de software
+- 🎮 Me aventurando em Godot nas horas vagas! 
+- 💼 Transição de Carreira
+- ⚖️ Formada em Direito e Pós-Graduada
+- 🌱 Estou proativamente buscando minha primeira oportunidade profissional em programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikacodee/)
+
+#
+
+### Tecnologias e Ferramentas
+<br>
+
+ [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,vscode,git,github,figma,notion)](https://skillicons.dev)
+
