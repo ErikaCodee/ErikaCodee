@@ -20,6 +20,6 @@
 ### Tecnologias e Ferramentas
 <br>
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,vscode,git,github,figma,notion)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,py,java,vscode,git,github,figma,notion)](https://skillicons.dev)
 
 
