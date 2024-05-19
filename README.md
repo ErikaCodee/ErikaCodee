@@ -1,7 +1,3 @@
-<div>
-  <img height="400em" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
-</div>
-
 ## Hello World 👋 Bem-vindo(a) ao meu Github!
 
 ### Sobre Mim
@@ -23,4 +19,5 @@
 <br>
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,vscode,git,github,figma,notion)](https://skillicons.dev)
+
 
