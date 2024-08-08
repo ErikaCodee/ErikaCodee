@@ -6,7 +6,7 @@
 
 - 💻 Estudante e Desenvolvedora Jr. [Front-End | Back-End | Fullstack]
 - 🤓 Embaixadora da Dio Campus Expert
-- 🎓 Cursando Bacharelado em Engenharia de Software no Gran Centro Universitário
+- 🎓 Cursando Bacharelado em Engenharia de Software 
 - 🤖 Explorando novas tecnologias e desenvolvendo soluções de software
 - 🎮 Me aventurando em Godot nas horas vagas! 
 - 💼 Transição de Carreira
