@@ -8,7 +8,6 @@
 - 🤓 Embaixadora da Dio Campus Expert
 - 🎓 Cursando Bacharelado em Engenharia de Software 
 - 🤖 Explorando novas tecnologias e desenvolvendo soluções de software
-- 🎮 Me aventurando em Godot nas horas vagas! 
 - 💼 Transição de Carreira
 - ⚖️ Formada em Direito e Pós-Graduada
 - 🌱 Estou proativamente buscando minha primeira oportunidade profissional em programação.
